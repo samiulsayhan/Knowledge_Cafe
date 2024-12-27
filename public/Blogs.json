@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co.com/4TQkRJP/qingbao-meng-01-ig-Fr7hd4-unsplash.jpg",
+    "author": "John Doe",
+    "title": "Understanding JavaScript: A Beginner's Guide",
+    "posted_date": "2024-12-01",
+    "reading_time": 5,
+    "author_img": "https://i.ibb.co.com/K55xJZz/luis-villasmil-hh3-Vi-D0r0-Rc-unsplash.jpg",
+    "hashtags": ["#JavaScript", "#Programming", "#WebDevelopment"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co.com/PC0S0nT/nitish-meena-Rbbdz-ZBKRDY-unsplash.jpg",
+    "author": "Jane Smith",
+    "title": "ReactJS for Beginners: Kickstart Your Journey",
+    "posted_date": "2024-12-03",
+    "reading_time": 8,
+    "author_img": "https://i.ibb.co.com/09sw93y/joseph-gonzalez-i-Fg-Rcq-Hznqg-unsplash.jpg",
+    "hashtags": ["#ReactJS", "#Frontend", "#WebDevelopment"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co.com/YcXStm1/garrett-parker-Dlk-F4-db-COU-unsplash.jpg",
+    "author": "Alice Johnson",
+    "title": "Exploring Node.js: Everything You Need to Know",
+    "posted_date": "2024-11-29",
+    "reading_time": 10,
+    "author_img": "https://i.ibb.co.com/Pg6Qvcm/jurica-koletic-7-YVZYZe-ITc8-unsplash.jpg",
+    "hashtags": ["#NodeJS", "#Backend", "#JavaScript"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co.com/K03XvQd/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+    "author": "Robert Brown",
+    "title": "Mastering MongoDB: Tips and Best Practices",
+    "posted_date": "2024-12-05",
+    "reading_time": 7,
+    "author_img": "https://i.ibb.co.com/QfPvRX2/donn-gabriel-baleva-U-Z4-P2-H3-KFE-unsplash.jpg",
+    "hashtags": ["#MongoDB", "#Database", "#NoSQL"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co.com/FJHrtC7/sasha-freemind-n-Xo2-Zs-KHTHg-unsplash.jpg",
+    "author": "Emily Davis",
+    "title": "CSS Grid: The Complete Guide for Modern Web Layouts",
+    "posted_date": "2024-11-30",
+    "reading_time": 6,
+    "author_img": "https://i.ibb.co.com/FmDBzFW/charlesdeluvio-k-Vg2-DQTAK7c-unsplash.jpg",
+    "hashtags": ["#CSS", "#WebDesign", "#CSSGrid"]
+  }
+]
